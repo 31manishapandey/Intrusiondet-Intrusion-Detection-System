@@ -132,6 +132,23 @@ This project can be used in:
 - AI-based Threat Detection
 
 ---
+  
+## Web Application Deployment
+
+The trained deep learning model is deployed using a Flask web application.
+
+Users can input network traffic features through a web interface and the model predicts whether the traffic is normal or malicious.
+
+Steps:
+
+1 Run the Flask server
+
+python app.py
+
+2 Open the browser
+
+http://127.0.0.1:5000
+---
 
 ## Future Improvements
 
