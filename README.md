@@ -1,4 +1,4 @@
-# AI-Based Network Intrusion Detection System
+# Multi-Scale Transformer & AI-Based Intelligent  Network Intrusion Detection System
 
 This project implements a **Deep Learning based Network Intrusion Detection System (IDS)** that detects malicious network traffic using machine learning techniques.
 
