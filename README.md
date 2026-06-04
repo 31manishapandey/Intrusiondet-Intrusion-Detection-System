@@ -5,7 +5,7 @@ The system analyzes **41 network traffic features** and predicts whether the tra
 
 The project also includes a **web-based interface** built using Flask that allows users to input network traffic data and receive real-time predictions.
 
----
+----
 
 ## Features
 
